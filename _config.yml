@@ -1,0 +1,85 @@
+---
+booktitle: Proceedings of the 15th Asian Conference on Machine Learning
+shortname: ACML
+sections:
+- name: Preface
+  title: Preface
+- name: Contributed Papers
+  title: Contributed Papers
+year: '2023'
+volume: '222'
+start: 2023-11-11
+end: 2023-11-14
+published: 2024-02-27
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ACML-2023
+month: 0
+cycles: false
+bibtex_editor: Yan{\i}ko\u{g}lu, Berrin and Buntine, Wray
+editor:
+- given: Berrin
+  family: Yanıkoğlu
+- given: Wray
+  family: Buntine
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 15th Asian Conference on Machine Learning
+    Held in \.{I}stanbul, Turkey on 11-14 November 2023
+
+  Published as Volume 222 by the Proceedings of Machine Learning Research on 27 February 2024.
+
+  Volume Edited by:
+    Berrin Yanıkoğlu
+    Wray Buntine
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 11--14 Nov
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v222"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v222
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v222
+email: ''
+conference:
+  name: Asian Conference on Machine Learning
+  url: https://www.acml-conf.org/2023/
+  location: İstanbul, Turkey
+  dates:
+  - 2023-11-11
+  - 2023-11-12
+  - 2023-11-13
+  - 2023-11-14
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v222/acml23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v222/acml23.bib
